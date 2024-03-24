@@ -1,0 +1,58 @@
+.wlcmechair{
+    padding-top: 10%;
+}
+
+.discount{
+    position: absolute;
+    text-align: center;
+    margin-top: 13%;
+    margin-left: 65%;
+    background-color: white;
+}
+
+.chair{
+    position: relative;
+}
+
+.keys1{
+    margin: -15px 100px 0px 0px;
+}
+
+.owl-nav{
+    font-size: 130%;
+    text-align: end !important;
+}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev{
+    color: white;
+    background-color: rgb(17, 142, 184);
+    border-radius: 50%;
+    border: 2px solid rgb(18, 162, 210);
+    width: 50px;
+    height: 50px;
+}
+
+ .bg{
+    background-color: black !important;
+}
+
+.textclr{
+    color: white;
+}
+
+
+@media only screen and (max-width: 768px) {
+.digital{
+   /* display: flex;
+   justify-content: center;
+   width: 100px; */
+}
+
+.last-section{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+
+
+}
