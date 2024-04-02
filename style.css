@@ -42,12 +42,6 @@
 
 
 @media only screen and (max-width: 768px) {
-.digital{
-   /* display: flex;
-   justify-content: center;
-   width: 100px; */
-}
-
 .last-section{
     display: grid;
     grid-template-columns: auto auto;
