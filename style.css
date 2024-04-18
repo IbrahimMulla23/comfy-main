@@ -45,6 +45,8 @@
 .last-section{
     display: grid;
     grid-template-columns: auto auto;
+    justify-content: center;
+    
 }
 
 
